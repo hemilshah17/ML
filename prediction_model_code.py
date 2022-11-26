@@ -1,5 +1,5 @@
 !pip install yfinance
-
+#Code adapted and derived from https://www.simplilearn.com/tutorials/machine-learning-tutorial/stock-price-prediction-using-machine-learning
 import os
 import numpy as np
 import pandas as pd
